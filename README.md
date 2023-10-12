@@ -1,6 +1,7 @@
 # PrasannaAKSInfo
 
 # Cloud Shell - Configure kubectl to connect to AKS Cluster
+Go to https://shell.azure.com
 ```
 # Template
 az aks get-credentials --resource-group PrasannaAKSRG --name Prasannaaks1
